@@ -73,7 +73,7 @@ const Footer = () => {
             Delhi | Noida | Greater Noida | Ghaziabad | Gurugram | Faridabad | Bahadurgarh | Kolkata
           </p>
           <p className="text-sm">
-            © 2024 MYFASTX TECHNOLOGIES PVT LTD. All Rights Reserved CIN: U52219UP2023PTC192260
+            © 2024 MYFASTX TECHNOLOGIES PVT LTD. All Rights Reserved CIN: KAUSTUBH CHANDEL
           </p>
         </div>
       </div>
